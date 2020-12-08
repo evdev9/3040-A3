@@ -20,7 +20,9 @@
 ````GET /wpg_Cases````  
 **Description:**  
 -- Get the number of covid-19 cases currently active in Winnipeg
+
 ---
+
 ````GET /mb_positive/{num_days}````  
 **Description:**  
 -- Get the test-positive percentage in Manitoba for a number of days
