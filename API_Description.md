@@ -27,6 +27,8 @@
 **Description:**  
 -- Get the test-positive percentage in Manitoba for a number of days
 
+---
+
 **Parameters:**
 
 num_days ````integer````  
