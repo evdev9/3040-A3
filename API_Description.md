@@ -10,20 +10,20 @@
 ##### Available Endpoints
 ---
 ````GET /mb_cases````  
-**Description:**
+**Description:**  
 -- Get the number of covid-19 cases currently active in Manitoba
 ---
 ````GET /wpg_Cases````  
-**Description:**
+**Description:**  
 -- Get the number of covid-19 cases currently active in Winnipeg
 ---
 ````GET /mb_positive/{num_days}````  
-**Description:**
+**Description:**  
 -- Get the test-positive percentage in Manitoba for a number of days
 
-**Parameters:**
-num_days ````integer````
-example: ````GET /mb_positive/{7}````
+**Parameters:**  
+num_days ````integer````  
+example: ````GET /mb_positive/{7}````  
 ---
 
 ### Sample Request
