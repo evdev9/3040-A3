@@ -28,7 +28,7 @@
 -- Get the test-positive percentage in Manitoba for a number of days
 
 **Parameters:**
-num_days ````integer````
+num_days ````integer````  
 example: ````GET /mb_positive/{7}````
 
 ---
