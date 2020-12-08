@@ -1,7 +1,7 @@
 # COMP 3040 Assignment 3
 
 ### API Description
-- This API enables you to receive imformation about COVID-19 in Manitoba
+- This API enables you to receive information about COVID-19 in Manitoba
 
 ### Description of Resources and Available Endpoints
 
