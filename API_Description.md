@@ -36,8 +36,11 @@ example: ````GET /mb_positive/{7}````
 ---
 
 ### Sample Request
+
 ````curl -u "username:password" -H "Content-Type:application/json" -X GET "https://api.mbcovid.com/mb_stats/mb_positive?num_days=7"````
+
 ### Sample Response
+
 ````
 {
     "percent_positive": 13.1
