@@ -3,7 +3,7 @@
 ### API Description
 - This API enables you to receive information about COVID-19 in Manitoba
 
-### Description of Resources and Available Endpoints
+### Description of Resource and Available Endpoints
 
 > The **mb_stats** resource is how you receive Covid-19 stats for Manitoba. Use the mb_stats API calls to return various stats on the current covid-19 situation in Manitoba.
 
