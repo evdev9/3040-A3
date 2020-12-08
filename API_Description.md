@@ -5,7 +5,7 @@
 
 ### Description of Resources and Available Endpoints
 
-> The **mb_stats** resource is how you receive Coivd-19 stats for Manitoba. Use the mb_stats API calls to return various stats on the current covid-19 situation in Manitoba.
+> The **mb_stats** resource is how you receive Covid-19 stats for Manitoba. Use the mb_stats API calls to return various stats on the current covid-19 situation in Manitoba.
 
 ##### Available Endpoints
 
