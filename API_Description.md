@@ -8,11 +8,15 @@
 > The **mb_stats** resource is how you receive Coivd-19 stats for Manitoba. Use the mb_stats API calls to return various stats on the current covid-19 situation in Manitoba.
 
 ##### Available Endpoints
+
 ---
+
 ````GET /mb_cases````  
 **Description:**  
 -- Get the number of covid-19 cases currently active in Manitoba
+
 ---
+
 ````GET /wpg_Cases````  
 **Description:**  
 -- Get the number of covid-19 cases currently active in Winnipeg
